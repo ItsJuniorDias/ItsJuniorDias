@@ -6,6 +6,6 @@
 Speak dev, welcome to my portfolio as a programmer! 
 
 - 💻 **Focus:** Mobile development !
-- 🔧 **Frameworks:** React Native, React, Node and **more**.
+- 🔧 **Frameworks:** React Native, ReactJs, NodeJs and **more**.
 - 🎓 **Academic:** Technology in System Analysis and Development
 
