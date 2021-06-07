@@ -5,7 +5,7 @@
 
 Speak dev, welcome to my portfolio as a programmer! 
 
-- 💻 **Focus:** Software Enginner!
+- 💻 **Focus:** Software Engineer!
 - 🔧 **Frameworks:** React Native, ReactJs, NodeJs and **more**.
 - 🎓 **Academic:** Technology in System Analysis and Development
 
