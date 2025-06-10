@@ -1,5 +1,5 @@
 # Alexandre Junior💻
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felps03)](https://www.linkedin.com/in/alexandre-junior-236894190/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felps03)](https://www.linkedin.com/in/alexandre-junior-843b9236a/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexandrejr)
 
 
